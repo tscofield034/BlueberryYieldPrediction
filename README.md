@@ -19,14 +19,14 @@ Given that this data is used for a competition, the data is very clean already. 
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/MGgYnGO.png" height="40%" width="40%" alt="boxplot"/>
+<img src="https://i.imgur.com/MGgYnGO.png" height="50%" width="50%" alt="boxplot"/>
 <br />
 
 Next, we explored the features and plotted a correlation plot. We can see that several variables are highly (and negatively) correlated with yield. Moreover, 'fruitset', 'fruitmass', and 'seeds' are highly correlated with yield. This is not a huge surpise, as these are the features that are directly correlated with blueberry yield. However, there are a few other features that are strongly negatively correlated with yield. These features include 'clonesize', 'RainingDays', and 'AverageRainingDays'.
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/4nh0gNP.png" height="40%" width="40%" alt="heatmap"/>
+<img src="https://i.imgur.com/4nh0gNP.png" height="60%" width="60%" alt="heatmap"/>
 <br />
 
 Next, we plotted a pairplots of the features, colored by blueberry yield to further investigate characteristics and the distribution of yield within each variable. We can see that there are some trends in the yield distributions. In the histograms (plotted on the diagonal), we can see for most features, some sort of separation in the yield values. For example, there tends to be less yield with lower fruitset values. Or on the other hand, a higher yield with a lower clonesize.
@@ -35,7 +35,7 @@ Also, we added two additional variables that can be seen in these plots: seed_fr
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/Bnujlkd.png" height="40%" width="40%" alt="pairplot"/>
+<img src="https://i.imgur.com/Bnujlkd.png" height="80%" width="80%" alt="pairplot"/>
 <br />
 
 ## 3. Preprocessing
