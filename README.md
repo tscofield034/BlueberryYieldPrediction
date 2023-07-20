@@ -50,7 +50,7 @@ The top 4 model's modeling results can be found in the Table below.
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/d8VrNiS.png" height="40%" width="40%" alt="results"/>
+<img src="https://i.imgur.com/d8VrNiS.png" height="30%" width="30%" alt="results"/>
 <br />
 
 **Discussion and Conclusion**:
